@@ -1,0 +1,6 @@
+{
+  "name": "QuizWeb - Kuis Online Pemrograman Web 2",
+  "description": "Platform kuis interaktif ala Kahoot untuk mata kuliah Pemrograman Web 2 (HTML, CSS, JavaScript, React, Node.js, Express, REST API, Database) dengan PIN, Waiting Room, Kontrol Dosen, dan Podium.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
